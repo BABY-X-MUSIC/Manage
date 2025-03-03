@@ -1,14 +1,14 @@
 {
     "name": "MAHAK ROBOT",
     "description": "Telegram Group Management Bot.",
-    "logo": "https://graph.org/file/826485f2d7db6f09db8ed.jpg",
+    "logo": "https://files.catbox.moe/hbkwsg.jpg",
     "keywords": [
        "telegram",
        "modular",
        "group",
        "manager"
     ],   
- "repository": "https://github.com/GOD-R4V4N/ManagementBot",
+ "repository": "https://github.com/BABY-X-MUSIC/Manage",
  "stack": "heroku-22",
  "addons": [
     {
@@ -22,12 +22,12 @@
     "API_ID": {
        "description": "Get this value from my.telegram.org/apps.",
        "required": true,
-       "value": "28689465"
+       "value": "21553328"
     },
     "API_HASH": {
        "description": "Get this value from my.telegram.org/apps.",
        "required": true,
-       "value": "fedd61d8e38f8afaed63c01b8438cbe4"
+       "value": "3bcc137f124bc8518c30d461986e247b"
     },
     "ALLOW_EXCL": {
        "description": "Set this to True if you want ! to be a command prefix along with /. Recommended is True",
