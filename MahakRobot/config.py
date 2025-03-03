@@ -18,23 +18,23 @@ class Config(object):
 
     SUDO_USER = getenv("SUDO_USER", "6927241780") 
 
-    OWNER_USERNAME = ("OWNER_USERNAME", "GOD_R4V4N")
+    OWNER_USERNAME = ("OWNER_USERNAME", "UFC_INOCENT")
     
-    SUPPORT_CHAT = getenv("SUPPORT_CHAT", "Ravan_Lankaa")
+    SUPPORT_CHAT = getenv("SUPPORT_CHAT", "UFC_NETWORK")
    
-    START_IMG = getenv("START_IMG", "https://graph.org/file/eaa3a2602e43844a488a5.jpg")
+    START_IMG = getenv("START_IMG", "https://files.catbox.moe/hbkwsg.jpg")
 
-    JOIN_LOGGER = getenv("JOIN_LOGGER", "-1002100219353")
+    JOIN_LOGGER = getenv("JOIN_LOGGER", "-1002127386247")
    
-    EVENT_LOGS = getenv("EVENT_LOGS",  "-1002100219353")
+    EVENT_LOGS = getenv("EVENT_LOGS",  "-1002127386247")
   
-    ERROR_LOGS = getenv("ERROR_LOGS", "-1002100219353")
+    ERROR_LOGS = getenv("ERROR_LOGS", "-1002127386247")
 
     MONGO_DB_URI= getenv("MONGO_DB_URI", None)
    
-    LOG_CHANNEL = getenv("LOG_CHANNEL", "-1002100219353")
+    LOG_CHANNEL = getenv("LOG_CHANNEL", "-1002127386247")
    
-    BOT_USERNAME = getenv("BOT_USERNAME" , "MahakXbot")
+    BOT_USERNAME = getenv("BOT_USERNAME" , "UFC_HELP_BOT")
    
     DATABASE_URL = getenv("DATABASE_URL", "postgres://bnastfeg:SSeKbnIRV5dkO_2ewW10Y0EOuvRVgo1f@kesavan.db.elephantsql.com/bnastfeg")
 
@@ -44,7 +44,7 @@ class Config(object):
 
     SPAMWATCH_API = getenv("SPAMWATCH_API", "3624487efd8e4ca9c949f1ab99654ad1e4de854f41a14afd00f3ca82d808dc8c")
     
-    SPAMWATCH_SUPPORT_CHAT = getenv("SPAMWATCH_SUPPORT_CHAT", "God_Ravana")
+    SPAMWATCH_SUPPORT_CHAT = getenv("SPAMWATCH_SUPPORT_CHAT", "UFC_NETWORK")
     
     WALL_API = getenv("WALL_API", "2455acab48f3a935a8e703e54e26d121")
     
