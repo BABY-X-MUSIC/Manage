@@ -1,5 +1,5 @@
 {
-    "name": "MAHAK ROBOT",
+    "name": "UFC ROBOT",
     "description": "Telegram Group Management Bot.",
     "logo": "https://files.catbox.moe/hbkwsg.jpg",
     "keywords": [
@@ -45,12 +45,12 @@
     "EVENT_LOGS": {
        "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
        "required": true,
-       "value": "-1002100219353"
+       "value": "-1002127386247"
     },
     "MONGO_DB_URI": {
        "description": "Required for database connections.",
        "required": true,
-       "value": "mongodb+srv://hnyx:wywyw2@cluster0.9dxlslv.mongodb.net/?retryWrites=true&w=majority"
+       "value": "mongodb+srv://oliva:oliva123@cluster0.6cohqfv.mongodb.net/?retryWrites=true&w=majority"
     },
     "CASH_API_KEY": {
         "description": " Get your API key from https://www.alphavantage.co/support/#api-key",
@@ -66,17 +66,17 @@
     "OWNER_ID": {
        "description": "Your user ID as an integer.",
        "required": true,
-       "value": "6927241780"
+       "value": "7380417336"
     },
     "START_IMG": {
        "description": "Telegraph link of the image which will be shown at start command.",
        "required": true,
-       "value": "https://graph.org/file/826485f2d7db6f09db8ed.jpg"
+       "value": "https://files.catbox.moe/hbkwsg.jpg"
     },
     "SUPPORT_CHAT": {
        "description": "Your Telegram support group chat username where your users will go and bother you with shit Example - The_support_chat.",
        "required": true,
-       "value": "Ravan_Lankaa"
+       "value": "UFC_NETWORK"
     },
     "TOKEN": {
        "description": "Get bot token from @BotFather on TG",
